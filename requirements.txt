@@ -1,0 +1,8 @@
+tensorflow
+numpy
+python
+scikit-learn
+pandas
+matplotlib
+jieba
+scipy
